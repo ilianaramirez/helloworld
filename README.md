@@ -1,2 +1,3 @@
 # helloworld
-primer repositorio aprendiendo GitHub
+Juan Jacobo Cruz Romero
+A01067040
